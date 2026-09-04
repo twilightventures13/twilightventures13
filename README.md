@@ -8,7 +8,7 @@ Each one opens a big file in an editor tab and reads only the page on screen, so
 
 - [JSONL Lens](https://plugins.jetbrains.com/plugin/33397): JSON Lines and NDJSON files, gzipped included
 - [Log Lens](https://plugins.jetbrains.com/plugin/33416): large plain, JSONL, logfmt and ANSI logs, followed as they grow
-- [Parquet Lens](https://plugins.jetbrains.com/plugin/33510): Parquet, Arrow and Feather datasets
+- [Parquet Lens](https://plugins.jetbrains.com/plugin/33510): Parquet, Avro, Arrow and Feather datasets
 - [SQLite Lens](https://plugins.jetbrains.com/plugin/33684): read-only SQLite database viewer
 - [XLSX Lens](https://plugins.jetbrains.com/plugin/33721): read-only Excel workbook viewer
 - [Notebook Lens](https://plugins.jetbrains.com/plugin/33811): Jupyter notebooks rendered as documents, outputs included, no kernel needed
