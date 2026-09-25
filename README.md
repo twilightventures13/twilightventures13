@@ -9,7 +9,7 @@ Website: https://twilightventures.dev Â· Support: support@twilightventures.dev Â
 - [JSONL Lens](https://plugins.jetbrains.com/plugin/33397): JSON Lines and NDJSON, gzipped included
 - [Log Lens](https://plugins.jetbrains.com/plugin/33416): large plain, JSON lines, logfmt and ANSI logs, with follow mode
 - [Parquet Lens](https://plugins.jetbrains.com/plugin/33510): Parquet, Avro, TFRecord, Arrow and Feather datasets
-- [SQLite Lens](https://plugins.jetbrains.com/plugin/33684): a read-only SQLite database browser
+- [SQLite Lens](https://plugins.jetbrains.com/plugin/33684): a SQLite database browser, read-only by default
 - [XLSX Lens](https://plugins.jetbrains.com/plugin/33721): Excel workbooks, streamed and read-only
 - [Notebook Lens](https://plugins.jetbrains.com/plugin/33811): Jupyter notebooks as documents, no kernel needed
 - [DuckDB Lens](https://plugins.jetbrains.com/plugin/33853): a read-only DuckDB database browser
